@@ -12,7 +12,7 @@ const Footer = () => {
             Copyright &copy; {currentYear}{' '}
             <a
               href="https://bbima.ml"
-              className="ml-1 hover:text-sky-600"
+              className="ml-1 hover:text-teal-600"
               target="_blank"
               rel="noreferrer"
             >

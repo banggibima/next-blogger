@@ -1,3 +1,1 @@
-# next-blogger-college-task
-
-Collection of coursework TI033110
+# next-blogger

@@ -20,7 +20,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Blog College Task</title>
+          <title>Next Blogger</title>
         </Head>
         <Container>
           <Intro />

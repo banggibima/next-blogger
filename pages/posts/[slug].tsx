@@ -33,7 +33,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <>
             <article className="mb-32">
               <Head>
-                <title>{post.title} | Blog College Task</title>
+                <title>{post.title} | Next Blogger</title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
               <PostHeader
